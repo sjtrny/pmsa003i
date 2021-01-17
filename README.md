@@ -1,4 +1,4 @@
-This component is for the PMSA003I (pmsa003i) sensor.
+This is an [esphome](https://esphome.io) component for the PMSA003I (pmsa003i) sensor.
 
 [<img src="https://cdn-shop.adafruit.com/970x728/4632-10.jpg" width="400px">](https://www.adafruit.com/products/3686)
 
