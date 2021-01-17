@@ -1,5 +1,7 @@
 This component is for the PMSA003I (pmsa003i) sensor.
 
+[<img src="https://cdn-shop.adafruit.com/970x728/4632-10.jpg" width="400px">](https://www.adafruit.com/products/3686)
+
 ## Installation
 Copy the `pmsa003i` directory into your ESPHome `custom_components` directory (creating it if it does not exist).
 
