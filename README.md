@@ -21,15 +21,15 @@ sensor:
 
 ## Available Sensors
 
-- pm_1_0:  mass of particles with a diameter of 1 micrometres or less (μg/m^3)
-- pm_2_5: mass of particles with a diameter of 2.5 micrometres or less (μg/m^3)
-- pm_10_0: mass of particles with a diameter of 10 micrometres or less (μg/m^3)
-- pmc_0_3: count of particles with diameter > 0.3 um in 0.1 L of air (#/0.1L)
-- pmc_0_5: count of particles with diameter > 0.5 um in 0.1 L of air (#/0.1L)
-- pmc_1_0: count of particles with diameter > 1 um in 0.1 L of air (#/0.1L)
-- pmc_2_5: count of particles with diameter > 2.5 um in 0.1 L of air (#/0.1L)
-- pmc_5_0: count of particles with diameter > 5 um in 0.1 L of air (#/0.1L)
-- pmc_10_0: count of particles with diameter > 10 um in 0.1 L of air (#/0.1L)
+- `pm_1_0`:  mass of particles with a diameter of 1 micrometres or less (μg/m^3)
+- `pm_2_5`: mass of particles with a diameter of 2.5 micrometres or less (μg/m^3)
+- `pm_10_0`: mass of particles with a diameter of 10 micrometres or less (μg/m^3)
+- `pmc_0_3`: count of particles with diameter > 0.3 um in 0.1 L of air (#/0.1L)
+- `pmc_0_5`: count of particles with diameter > 0.5 um in 0.1 L of air (#/0.1L)
+- `pmc_1_0`: count of particles with diameter > 1 um in 0.1 L of air (#/0.1L)
+- `pmc_2_5`: count of particles with diameter > 2.5 um in 0.1 L of air (#/0.1L)
+- `pmc_5_0`: count of particles with diameter > 5 um in 0.1 L of air (#/0.1L)
+- `pmc_10_0`: count of particles with diameter > 10 um in 0.1 L of air (#/0.1L)
 
 ## Parameters
 
