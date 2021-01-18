@@ -33,9 +33,9 @@ sensor:
 
 ## Parameters
 
-address: The I2C address of the device. Default is `0x12`
-update_interval: How frequently to poll the device. Default is `60s`
-standard_units: Whether to use standard units (`True`) or environmental units (`False`)
+- `address`: The I2C address of the device. Default is `0x12`
+- `update_interval`: How frequently to poll the device. Default is `60s`
+- `standard_units`: Whether to use standard units (`True`) or environmental units (`False`)
 
 ## Complete configuration
 
