@@ -11,6 +11,11 @@ void PMSA003IComponent::setup() {
 
     PM25_AQI_Data data;
     bool successful_read = this->read_data(&data);
+
+    if (!successful_read) {
+      this->mark_failed();
+      return;
+    }
 }
 
 void PMSA003IComponent::dump_config() {
