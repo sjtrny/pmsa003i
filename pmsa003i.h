@@ -35,7 +35,7 @@ class PMSA003IComponent : public PollingComponent, public i2c::I2CDevice {
         void update() override;
         float get_setup_priority() const override { return setup_priority::DATA; }
 
-    void set_standard_units(bool standard_units) { standard_units_ = standard_units; }
+        void set_standard_units(bool standard_units) { standard_units_ = standard_units; }
 
         void set_pm_1_0_sensor(sensor::Sensor *pm_1_0) { pm_1_0_sensor_ = pm_1_0; }
         void set_pm_2_5_sensor(sensor::Sensor *pm_2_5) { pm_2_5_sensor_ = pm_2_5; }
