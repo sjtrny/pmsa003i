@@ -42,23 +42,23 @@ sensor:
 ```
   - platform: pmsa003i
     pm_1_0:
-      name: "Aether PM1.0"
+      name: "PM1.0"
     pm_2_5:
-      name: "Aether PM2.5"
+      name: "PM2.5"
     pm_10_0:
-      name: "Aether PM10.0"
+      name: "PM10.0"
     pmc_0_3:
-      name: "Aether PMC <0.3µm"
+      name: "PMC <0.3µm"
     pmc_0_5:
-      name: "Aether PMC <0.5µm"
+      name: "PMC <0.5µm"
     pmc_1_0:
-      name: "Aether PMC <1µm"
+      name: "PMC <1µm"
     pmc_2_5:
-      name: "Aether PMC <2.5µm"
+      name: "PMC <2.5µm"
     pmc_5_0:
-      name: "Aether PMC <5µm"
+      name: "PMC <5µm"
     pmc_10_0:
-      name: "Aether PMC <10µm"
+      name: "PMC <10µm"
     address: 0x12
     update_interval: 60s
     standard_units: True
