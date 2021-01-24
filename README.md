@@ -31,7 +31,7 @@ sensor:
 - `pmc_5_0`: count of particles with diameter > 5 um in 0.1 L of air (#/0.1L)
 - `pmc_10_0`: count of particles with diameter > 10 um in 0.1 L of air (#/0.1L)
 
-## Parameters
+## Optional Parameters
 
 - `address`: The I2C address of the device. Default is `0x12`
 - `update_interval`: How frequently to poll the device. Default is `60s`
@@ -81,4 +81,3 @@ English datasheet https://cdn-shop.adafruit.com/product-files/4632/4505_PMSA003I
 ## Hardware
 
 The hardware is available from Adafruit https://www.adafruit.com/product/4632
-
