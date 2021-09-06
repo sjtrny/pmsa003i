@@ -1,3 +1,9 @@
+# WARNING: DEPRECATED
+
+PMSA003i is now supported by ESPHome https://esphome.io/components/sensor/pmsa003i.html 
+
+# PMSA003i
+
 This is an [esphome](https://esphome.io) component for the PMSA003I (pmsa003i) sensor.
 
 [<img src="https://cdn-shop.adafruit.com/970x728/4632-10.jpg" width="400px">](https://www.adafruit.com/products/3686)
